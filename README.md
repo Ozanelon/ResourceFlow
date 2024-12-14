@@ -20,7 +20,7 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/ResourceFlow.git
-   cd ResourceFlow
+   cd ResourceFlow/src
    ```
 
 2. Install the required dependencies:
