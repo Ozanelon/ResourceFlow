@@ -1,17 +1,80 @@
-GNU GENERAL PUBLIC LICENSE
-Version 3, 29 June 2007
+                       GNU GENERAL PUBLIC LICENSE
+                          Version 3, 29 June 2007
 
-Copyright (C) 2024 Ozan Koçer
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+                          Preamble
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+The GNU General Public License is a free, copyleft license for software
+and other kinds of works.
 
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
+The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program—to make sure it remains free
+software for all its users.  We, the Free Software Foundation, use the
+GNU General Public License for most of our software; it applies also to
+any other work released this way by its author.  You can apply it to
+your programs, too.
+
+When we speak of free software, we are referring to freedom, not price.
+To understand the concept, you should read the article “Free Software
+– Free Society.”
+
+The GPL-3.0 license is designed to prevent proprietary use of software
+and ensures that anyone who uses or redistributes the software must
+also share their modifications or derivative works under the same license.
+By doing so, it protects users' freedom and ensures that the software
+remains free for future generations of users and developers.
+
+   0. Definitions.
+
+   This License refers to version 3 of the GNU General Public License.
+
+   The "Program" means any work covered by this License.  Each licensee
+   is addressed as "you."
+
+   "You" includes the programmer or other person who takes a work and
+   creates a derivative work, as well as the person who distributes the
+   work.
+
+   "Licenses" include: the right to use, modify, or distribute software.
+
+   1. You may copy, modify, and distribute the Program, provided that
+   you meet the following conditions:
+
+   (a) You must provide a copy of the GNU GPL-3.0 license to the recipient
+   of the program, or provide a written offer to give them the full text of
+   the license along with any software received.
+
+   (b) You must make it clear that you have modified the original Program.
+   You must ensure that your modifications are accompanied by clear
+   documentation of what has been changed and why, so that others can
+   understand the changes you made.
+
+   2. The Program may be distributed or modified under the terms of
+   the GPL-3.0 license. It is always advisable to acknowledge authorship
+   in order to ensure proper credit.
+
+   3. No warranty is provided for the Program, and the software is
+   provided “as is.” The authors are not responsible for any damage
+   or consequences that result from the use of the software.
+
+   4. If you redistribute a modified version, you must provide clear
+   instructions or disclaimers regarding the modifications you have made.
+
+   5. When you distribute the program or derivative works, you must also
+   provide access to the source code under the terms of the GPL-3.0 license.
+
+   6. You cannot add additional restrictions on the software, and any
+   additional permissions granted must be compatible with the license.
+
+   7. If you choose to distribute under the GPL, any recipient has the
+   right to change and redistribute the program under the same terms.
+
+   This license assures that the software remains free for everyone to
+   use, share, and modify.
+
+   Full details can be found at: https://www.gnu.org/licenses/gpl-3.0.html
