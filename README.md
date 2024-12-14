@@ -1,4 +1,3 @@
-
 # ResourceFlow
 
 ResourceFlow is a simple and elegant system resource monitoring tool built with Python and PyQt5. It displays real-time CPU, RAM, and Disk usage in a visually appealing interface.
@@ -17,39 +16,45 @@ Make sure you have the following installed:
 
 ### Setup
 
-1. Clone the repository:
+1. **Clone the repository:**  
    ```bash
    git clone https://github.com/YOUR_USERNAME/ResourceFlow.git
-   cd ResourceFlow/src
+   cd ResourceFlow
    ```
 
-2. Install the required dependencies:
+2. **Create a virtual environment:**  
+   ```bash
+   python -m venv env
+   ```
+
+3. **Activate the virtual environment:**  
+   - On Windows:  
+     ```bash
+     .\env\Scripts\activate
+     ```  
+   - On macOS/Linux:  
+     ```bash
+     source env/bin/activate
+     ```  
+
+4. **Install the required Python packages:**  
    ```bash
    pip install -r requirements.txt
    ```
 
-### Running the Application
+5. **Run the application:**  
+   ```bash
+   python Thing_GUI.py
+   ```
 
-- For the GUI version:
-   1. Navigate to the `src/gui` directory:
-      ```bash
-      cd src/gui
-      ```
-   2. Run the GUI application:
-      ```bash
-      python main_gui.py
-      ```
+6. **Deactivate the virtual environment (optional):**  
+   When you're done working in the virtual environment, deactivate it:  
+   ```bash
+   deactivate
+   ```
 
-- For the CLI version:
-   1. Navigate to the `src/cli` directory:
-      ```bash
-      cd src/cli
-      ```
-   2. Run the CLI application:
-      ```bash
-      python main_cli.py
-      ```
+---
 
 ## License
 
-This project is licensed under the GPL-3.0 License. See the [LICENSE](https://opensource.org/licenses/GPL-3.0) for more details.
+This project is licensed under the [GPL License](https://www.gnu.org/licenses/gpl-3.0.en.html).
